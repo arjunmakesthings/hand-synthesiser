@@ -1,6 +1,8 @@
 # hand-synthesiser
 Using my previous study on hand landmarks, I made a synthesiser that operates via the hand. 
 
+https://youtu.be/U9yLVyQJTA0
+
 First, the program calculates the distance between each finger on a single hand and returns this distances. 
 
 ``` js
